@@ -1,0 +1,1 @@
+This is the CCBot, a Hubot for ChatOps
